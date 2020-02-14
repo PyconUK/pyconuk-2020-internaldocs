@@ -11,6 +11,10 @@ This is documentation for those involved in making PyCon UK 2020 happen. If you'
    :maxdepth: 2
    :caption: Contents:
 
+   roles
+   leads
+   timeline
+
 
 
 Indices and tables
