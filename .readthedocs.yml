@@ -1,3 +1,5 @@
+version: 2
+
 sphinx:
   builder: dirhtml
   fail_on_warning: true
