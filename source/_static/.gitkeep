@@ -1,0 +1,3 @@
+"People who want to track empty directories in Git have created the convention of putting files called .gitkeep in these directories. The file could be called anything; Git assigns no special significance to this name."
+
+https://stackoverflow.com/a/7229996/928098
