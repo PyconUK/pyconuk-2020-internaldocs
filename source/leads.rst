@@ -19,7 +19,7 @@ See :doc:`roles`
 * Tech - George Hickman
 * Ticketing - Ann Barr
 * Treasurer - Kristian Glass
-* Volunteer Management - TBD
+* Volunteer Management - Becky Smith
 
 This is not a complete and full division of every aspect of the conference -
 there will be things with no clear owner -
