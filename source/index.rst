@@ -14,6 +14,7 @@ This is documentation for those involved in making PyCon UK 2020 happen. If you'
    roles
    leads
    timeline
+   financialassistance
 
 
 
