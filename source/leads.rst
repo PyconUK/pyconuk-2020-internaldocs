@@ -4,7 +4,7 @@ Leads
 See :doc:`roles`
 
 * AV - Tim Williams
-* Code of Conduct - TBD
+* Code of Conduct - Tania Allard
 * Communications
     * Twitter - Gail Ollis
     * Email - Gail Ollis
